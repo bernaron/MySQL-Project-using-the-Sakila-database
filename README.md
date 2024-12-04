@@ -29,7 +29,7 @@ The Sakila database contains several interconnected tables. Below are the key ta
 ## Queries and Analysis
 
 ### 1. How many copies of the film *Hunchback Impossible* exist in the inventory system?
-```sql
+
 SELECT 
     COUNT(i.inventory_id) AS total_copies
 FROM 

@@ -43,17 +43,8 @@ WHERE
 
 The following table displays the first name, last name, and payment amount for each staff member:
 
-| First Name | Last Name | Amount  |
-|------------|-----------|---------|
-| Mike       | Hillyer   | 5.99    |
-| Jon        | Stephens  | 9.99    |
-| Mike       | Hillyer   | 4.99    |
-| Jon        | Stephens  | 6.99    |
-| Mike       | Hillyer   | 7.99    |
-| ...        | ...       | ...     |
 
-
-![SQL Query Output](https://github.com/yourusername/yourrepo/blob/main/path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/7b3cb1b6-a9ff-4609-b6a7-cca4b10e9228)
 
 
 

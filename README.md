@@ -134,10 +134,10 @@ LIMIT 1;
 
 
 ### Insights and Findings##
-The total number of copies of Hunchback Impossible in the inventory is [Result].
-Payments are well-distributed across customers, with [Customer Name] making the highest total payment.
-The actor who has appeared in the most films is [Actor Name], with [Film Count] films.
-The most common actor surname is [Surname], appearing [Count] times.
+The total number of copies of' Hunchback impossible' in the inventory is 6.
+Payments are well-distributed across customers, with John Stephens making the highest total payment of $12216.49.
+The actor who has appeared in the most films is Gina, with 42 films.
+The most common actor surname is Kilma, appearing 5 times.
 
 ### Conclusion
 This project highlights the versatility of SQL in querying relational databases like Sakila. Through joins, aggregations, and filtering, we can extract valuable business insights effectively.
